@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ffb9256 (C6)
 bye hanyangs
 hi
 hi hanyang
